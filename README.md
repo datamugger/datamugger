@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**datamugger/datamugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -    Hi, I'm Animesh @datamugger
 -    I'm intrested in Data Analystics and Visualization 
 - 🌱 I’m currently learning Python, SQL and Visualization tools like Power-BI and Tableau.
