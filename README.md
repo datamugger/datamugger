@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/animeshmishra](https://www.novypro.com/profile_projects/animeshmishra)
 
-- 📫 How to reach me **novicedataengineer@gmail.com** or **https://www.linkedin.com/in/animesh795/**
+- 📫 How to reach me at **novicedataengineer@gmail.com** or **https://www.linkedin.com/in/animesh795/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
