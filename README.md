@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on many projects. You can have a look at them at my [NovyPro Profile](https://www.novypro.com/profile_projects/animeshmishra)
 
-- 🌱 I’m currently learning **Python, SQL and some Data Visualization tools like Power BI,Tableau and some Data Extraction Tool IICs an Informatica Cloud Service.**
+- 🌱 I’m currently learning **Python, SQL and some Data Visualization tools like Power BI, Tableau and some Data Extraction tools like IICs an Informatica Cloud Service.**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Data Science Projects.**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/animeshmishra](https://www.novypro.com/profile_projects/animeshmishra)
 
-- 📫 How to reach me **novicedataengineer@gmail.com**
+- 📫 How to reach me **novicedataengineer@gmail.com** or **https://www.linkedin.com/in/animesh795/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
