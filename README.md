@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on many projects. You can have a look at them at my [NovyPro Profile](https://www.novypro.com/profile_projects/animeshmishra)
 
-- 🌱 I’m an expert in  **Power BI, SQL, Python, Excel and ETL tools like Informatica IICs.**
+- 🌱 I’m an expert in  **Power BI, SQL, Python, Excel** and some **ETL tools** like **Informatica IICs** and working experience on **Cloud-based Platform** like **Snowflake**.
 
 - 👯 I’m looking to collaborate on **Data Analysis and Data Science Projects.**
 
