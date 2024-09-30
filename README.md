@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Animesh Mishra</h1>
-<h3 align="center">I have keen interest in knowing (why things happen? and how it happen?)..in short in analysis, be it for data or for the universe.</h3>
+<h2 align="center">Hi 👋, Welcome to my Github</h2>
+<h4 align="center">I have keen interest in knowing (why things happen? and how it happen?)..in short in analysis, be it for data or for the universe.</h4>
 
+My name is Animesh Mishra. I’m a passionate Data Analyst with over 4 years of experience in data analysis, data modeling, data collection, visualization and dashboard creation. With extensive experience in tools such as **Python**, **MS SQL Sever**, **PostgreSQL**, **MySQL**, **Snowflake**, **AWS**, **Azure**, **Informatica**, **Power BI**, **SAP BW**, **HANA Modeling** and **Excel**, I have successfully led multiple end-to-end data analytics project. My Journey includes working as a Data Analyst at **Accenture**, where I leverage data to drive strategic decision, enhance business process, streamline operational workflow. Currently, I’m focusing on becoming **Solution Expert** to drive projects end to end for various domains.
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datamugger&label=Profile%20views&color=0e75b6&style=flat" alt="datamugger" /> </p>
 
-- 🔭 I’m currently working on many projects. You can have a look at them at my [NovyPro Profile](https://www.novypro.com/profile_projects/animeshmishra)
+- 🔭 Explore my Visualisation projects at [NovyPro Profile](https://www.novypro.com/profile_projects/animeshmishra)
 
-- 🌱 I’m an expert in  **Power BI, SQL, Python, Excel** and **ETL tools** like **Informatica IICs** and have working experience on **Cloud-based Platform** like **Snowflake**.
+- 🌱 I've expertise in **Power BI, SQL, Python, Excel** and **ETL tools** like **Informatica IICs** and have working experience on **Cloud-based Platform** like **Snowflake, AWS and Azure**.
 
 - 👯 I’m looking to collaborate on **Data Analysis and Data Science Projects.**
 
